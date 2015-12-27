@@ -3,8 +3,8 @@ package pipe
 import (
 	"net/url"
 
-	"stathat.com/c/consistent"
-	"github.com/rishiloyola/zoop-client"
+	"github.com/rishiloyola/zoop-pipe/Godeps/_workspace/src/github.com/rishiloyola/zoop-client"
+	"github.com/rishiloyola/zoop-pipe/Godeps/_workspace/src/stathat.com/c/consistent"
 )
 
 type PipeClient struct{}
